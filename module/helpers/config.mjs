@@ -1,29 +1,29 @@
-export const ANIMASIMPLIFIED = {};
+export const ANIMAFOUNDRY = {};
 
 // Define constants here, such as:
-ANIMASIMPLIFIED.foobar = {
-  'bas': 'ANIMASIMPLIFIED.bas',
-  'bar': 'ANIMASIMPLIFIED.bar'
+ANIMAFOUNDRY.foobar = {
+  'bas': 'ANIMAFOUNDRY.bas',
+  'bar': 'ANIMAFOUNDRY.bar'
 };
 
 /**
  * The set of Ability Scores used within the sytem.
  * @type {Object}
  */
- ANIMASIMPLIFIED.abilities = {
-  "str": "ANIMASIMPLIFIED.AbilityStr",
-  "dex": "ANIMASIMPLIFIED.AbilityDex",
-  "con": "ANIMASIMPLIFIED.AbilityCon",
-  "int": "ANIMASIMPLIFIED.AbilityInt",
-  "wis": "ANIMASIMPLIFIED.AbilityWis",
-  "cha": "ANIMASIMPLIFIED.AbilityCha"
+ ANIMAFOUNDRY.abilities = {
+  "str": "ANIMAFOUNDRY.AbilityStr",
+  "dex": "ANIMAFOUNDRY.AbilityDex",
+  "con": "ANIMAFOUNDRY.AbilityCon",
+  "int": "ANIMAFOUNDRY.AbilityInt",
+  "wis": "ANIMAFOUNDRY.AbilityWis",
+  "cha": "ANIMAFOUNDRY.AbilityCha"
 };
 
-ANIMASIMPLIFIED.abilityAbbreviations = {
-  "str": "ANIMASIMPLIFIED.AbilityStrAbbr",
-  "dex": "ANIMASIMPLIFIED.AbilityDexAbbr",
-  "con": "ANIMASIMPLIFIED.AbilityConAbbr",
-  "int": "ANIMASIMPLIFIED.AbilityIntAbbr",
-  "wis": "ANIMASIMPLIFIED.AbilityWisAbbr",
-  "cha": "ANIMASIMPLIFIED.AbilityChaAbbr"
+ANIMAFOUNDRY.abilityAbbreviations = {
+  "str": "ANIMAFOUNDRY.AbilityStrAbbr",
+  "dex": "ANIMAFOUNDRY.AbilityDexAbbr",
+  "con": "ANIMAFOUNDRY.AbilityConAbbr",
+  "int": "ANIMAFOUNDRY.AbilityIntAbbr",
+  "wis": "ANIMAFOUNDRY.AbilityWisAbbr",
+  "cha": "ANIMAFOUNDRY.AbilityChaAbbr"
 };

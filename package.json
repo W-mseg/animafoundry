@@ -1,7 +1,7 @@
 {
-  "name": "animasimplified",
+  "name": "animafoundry",
   "version": "1.0.0",
-  "description": "CSS compiler for the animasimplified system",
+  "description": "CSS compiler for the animafoundry system",
   "scripts": {
     "build": "gulp build",
     "compile": "gulp css",

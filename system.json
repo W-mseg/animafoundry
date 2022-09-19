@@ -1,13 +1,13 @@
 {
-  "name": "animasimplified",
-  "title": "animasimplified",
-  "description": "The animasimplified system for FoundryVTT!",
+  "name": "animafoundry",
+  "title": "animafoundry",
+  "description": "The animafoundry system for FoundryVTT!",
   "version": "1.0.0",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "9",
   "author": "Marco Segretario",
-  "esmodules": ["module/animasimplified.mjs"],
-  "styles": ["css/animasimplified.css"],
+  "esmodules": ["module/animafoundry.mjs"],
+  "styles": ["css/animafoundry.css"],
   "scripts": [],
   "packs": [],
   "languages": [

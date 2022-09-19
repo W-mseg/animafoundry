@@ -7,9 +7,9 @@
   return loadTemplates([
 
     // Actor partials.
-    "systems/animasimplified/templates/actor/parts/actor-features.html",
-    "systems/animasimplified/templates/actor/parts/actor-items.html",
-    "systems/animasimplified/templates/actor/parts/actor-spells.html",
-    "systems/animasimplified/templates/actor/parts/actor-effects.html",
+    "systems/animafoundry/templates/actor/parts/actor-features.html",
+    "systems/animafoundry/templates/actor/parts/actor-items.html",
+    "systems/animafoundry/templates/actor/parts/actor-spells.html",
+    "systems/animafoundry/templates/actor/parts/actor-effects.html",
   ]);
 };

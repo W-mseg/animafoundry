@@ -31,7 +31,7 @@ export class animaActor extends Actor {
   prepareDerivedData() {
     const actorData = this.data;
     const data = actorData.data;
-    const flags = actorData.flags.animasimplified || {};
+    const flags = actorData.flags.animafoundry || {};
 
     // Make separate methods for each Actor type (character, npc, etc.) to keep
     // things organized.

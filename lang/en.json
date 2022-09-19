@@ -1,22 +1,22 @@
 {
-  "ANIMASIMPLIFIED.AbilityStr": "Strength",
-  "ANIMASIMPLIFIED.AbilityCon": "Constitution",
-  "ANIMASIMPLIFIED.AbilityDex": "Dexterity",
-  "ANIMASIMPLIFIED.AbilityInt": "Intelligence",
-  "ANIMASIMPLIFIED.AbilityWis": "Wisdom",
-  "ANIMASIMPLIFIED.AbilityCha": "Charisma",
+  "ANIMAFOUNDRY.AbilityStr": "Strength",
+  "ANIMAFOUNDRY.AbilityCon": "Constitution",
+  "ANIMAFOUNDRY.AbilityDex": "Dexterity",
+  "ANIMAFOUNDRY.AbilityInt": "Intelligence",
+  "ANIMAFOUNDRY.AbilityWis": "Wisdom",
+  "ANIMAFOUNDRY.AbilityCha": "Charisma",
 
-  "ANIMASIMPLIFIED.AbilityStrAbbr": "str",
-  "ANIMASIMPLIFIED.AbilityConAbbr": "con",
-  "ANIMASIMPLIFIED.AbilityDexAbbr": "dex",
-  "ANIMASIMPLIFIED.AbilityIntAbbr": "int",
-  "ANIMASIMPLIFIED.AbilityWisAbbr": "wis",
-  "ANIMASIMPLIFIED.AbilityChaAbbr": "cha",
+  "ANIMAFOUNDRY.AbilityStrAbbr": "str",
+  "ANIMAFOUNDRY.AbilityConAbbr": "con",
+  "ANIMAFOUNDRY.AbilityDexAbbr": "dex",
+  "ANIMAFOUNDRY.AbilityIntAbbr": "int",
+  "ANIMAFOUNDRY.AbilityWisAbbr": "wis",
+  "ANIMAFOUNDRY.AbilityChaAbbr": "cha",
 
-  "ANIMASIMPLIFIED.EffectCreate": "Create Effect",
-  "ANIMASIMPLIFIED.EffectToggle": "Toggle Effect",
-  "ANIMASIMPLIFIED.EffectEdit": "Edit Effect",
-  "ANIMASIMPLIFIED.EffectDelete": "Delete Effect",
+  "ANIMAFOUNDRY.EffectCreate": "Create Effect",
+  "ANIMAFOUNDRY.EffectToggle": "Toggle Effect",
+  "ANIMAFOUNDRY.EffectEdit": "Edit Effect",
+  "ANIMAFOUNDRY.EffectDelete": "Delete Effect",
 
-  "ANIMASIMPLIFIED.Add": "Add"
+  "ANIMAFOUNDRY.Add": "Add"
 }

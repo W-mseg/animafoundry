@@ -9,8 +9,8 @@ export class animaActorSheet extends ActorSheet {
   /** @override */
   static get defaultOptions() {
     return mergeObject(super.defaultOptions, {
-      classes: ["animasimplified", "sheet", "actor"],
-      template: "systems/animasimplified/templates/actor/actor-sheet.html",
+      classes: ["animafoundry", "sheet", "actor"],
+      template: "systems/animafoundry/templates/actor/actor-sheet.html",
       width: 600,
       height: 600,
       tabs: [{ navSelector: ".sheet-tabs", contentSelector: ".sheet-body", initial: "features" }]
@@ -19,7 +19,7 @@ export class animaActorSheet extends ActorSheet {
 
   /** @override */
   get template() {
-    return `systems/animasimplified/templates/actor/actor-${this.actor.data.type}-sheet.html`;
+    return `systems/animafoundry/templates/actor/actor-${this.actor.data.type}-sheet.html`;
   }
 
   /* -------------------------------------------- */
@@ -69,7 +69,7 @@ export class animaActorSheet extends ActorSheet {
   _prepareCharacterData(context) {
     // Handle ability scores.
     for (let [k, v] of Object.entries(context.data.abilities)) {
-      v.label = game.i18n.localize(CONFIG.ANIMASIMPLIFIED.abilities[k]) ?? k;
+      v.label = game.i18n.localize(CONFIG.ANIMAFOUNDRY.abilities[k]) ?? k;
     }
   }
 
