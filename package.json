@@ -1,0 +1,23 @@
+{
+  "name": "animasimplified",
+  "version": "1.0.0",
+  "description": "CSS compiler for the animasimplified system",
+  "scripts": {
+    "build": "gulp build",
+    "compile": "gulp css",
+    "watch": "gulp",
+    "gulp": "gulp"
+  },
+  "browserslist": [
+    "last 3 versions"
+  ],
+  "author": "Marco Segretario",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "gulp": "^4",
+    "gulp-autoprefixer": "^8",
+    "gulp-sass": "^4",
+    "gulp-sourcemaps": "^3"
+  }
+}

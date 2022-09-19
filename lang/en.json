@@ -1,0 +1,22 @@
+{
+  "ANIMASIMPLIFIED.AbilityStr": "Strength",
+  "ANIMASIMPLIFIED.AbilityCon": "Constitution",
+  "ANIMASIMPLIFIED.AbilityDex": "Dexterity",
+  "ANIMASIMPLIFIED.AbilityInt": "Intelligence",
+  "ANIMASIMPLIFIED.AbilityWis": "Wisdom",
+  "ANIMASIMPLIFIED.AbilityCha": "Charisma",
+
+  "ANIMASIMPLIFIED.AbilityStrAbbr": "str",
+  "ANIMASIMPLIFIED.AbilityConAbbr": "con",
+  "ANIMASIMPLIFIED.AbilityDexAbbr": "dex",
+  "ANIMASIMPLIFIED.AbilityIntAbbr": "int",
+  "ANIMASIMPLIFIED.AbilityWisAbbr": "wis",
+  "ANIMASIMPLIFIED.AbilityChaAbbr": "cha",
+
+  "ANIMASIMPLIFIED.EffectCreate": "Create Effect",
+  "ANIMASIMPLIFIED.EffectToggle": "Toggle Effect",
+  "ANIMASIMPLIFIED.EffectEdit": "Edit Effect",
+  "ANIMASIMPLIFIED.EffectDelete": "Delete Effect",
+
+  "ANIMASIMPLIFIED.Add": "Add"
+}
